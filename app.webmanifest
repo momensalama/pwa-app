@@ -1,0 +1,35 @@
+{
+  "name": "codepad masters, the best PWA in the world",
+  "short_name": "codepad",
+  "start_url": "./",
+  "orientation": "portrait",
+  "theme_color": "#ffc252",
+  "scope": "./",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/maskable_icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "description": "codepad is the best PWA in the world",
+  "screnshots": [
+    {
+      "src": "icons/screenshot.png",
+      "sizes": "872x1620",
+      "type": "image/png"
+    }
+  ]
+}
